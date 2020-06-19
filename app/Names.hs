@@ -1,0 +1,22 @@
+module Names (preset) where
+
+preset = ["Ben",
+        "Jonas",
+        "Leon",
+        "Elias",
+        "Finn",
+        "Noah",
+        "Paul",
+        "Luis",
+        "Lukas",
+        "Luca",
+        "Mia",
+        "Emma",
+        "Hannah",
+        "Sofia",
+        "Anna",
+        "Emilia",
+        "Lina",
+        "Marie",
+        "Lena",
+        "Mila"]
